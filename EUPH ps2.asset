@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1521619359, guid: 9c267a3b31fa52d4b89a39d1227f4f01, type: 3}
+  m_Name: EUPH ps2
+  m_EditorClassIdentifier: 
+  _prefab: {fileID: 114943023845103305, guid: 5d8c5574ced181440b5e81d693ea8f7c, type: 3}
+  _valuablePresets:
+  - Valuables - Generic
